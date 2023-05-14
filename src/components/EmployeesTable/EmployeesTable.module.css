@@ -1,0 +1,11 @@
+.table {
+  width: 50%;
+}
+
+.headers{
+  background-color: gray;
+}
+
+.tableBody{
+  background-color: rgb(180, 180, 180);
+}
